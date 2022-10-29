@@ -1,0 +1,285 @@
+ordre,tipus_via,nom_via_curt,nom_via_llarg
+1,Carrer,Abat Escarré,Carrer de l'Abat Escarré
+2,Carrer,Abat Marcet,Carrer de l'Abat Marcet
+3,Carrer,Abat Oliba,Carrer de l'Abat Oliba
+4,Carrer,Agudes,Carrer de les Agudes
+5,Carrer,Alzina,Carrer de l'Alzina
+6,Carrer,Amèlia,Carrer d'Amèlia
+7,Passatge,Ametllers,Passatge dels Ametllers
+8,Carrer,Àngel Guimerà,Carrer d'Àngel Guimerà
+9,Carrer,Anselm Clavé,Carrer d'Anselm Clavé
+10,Camí,Antic de Teià,Camí Antic de Teià
+11,Carrer,Arbres,Carrer dels Arbres
+12,Plaça,Associació Cultural i Recreativa Carnestoltes,Plaça Associació Cultural i Recreativa Carnestoltes
+13,Carrer,Balmes,Carrer de Balmes
+14,Avinguda,Barcelona,Avinguda de Barcelona
+15,Carrer,Berguedà,Carrer del Berguedà
+16,Carrer,Besòs,Carrer del Besòs
+17,Torrent,Bòbila,Torrent de la Bòbila
+18,Carrer,Bonaplata,Carrer de Bonaplata
+19,Carrer,Bonavista,Carrer de Bonavista
+20,Camí,Bosc de can Soberano,Camí del Bosc de can Soberano
+21,Carrer,Bosc d'en Sagué,Carrer del Bosc d'en Sagué
+22,Carrer,ca la Teta,Carrer de ca la Teta
+23,Placeta,ca la Teta,Placeta de ca la Teta
+24,Carrer,cal Grasses,Carrer de cal Grasses
+25,Passatge,Camèlies,Passatge de les Camèlies
+26,Passeig,can Balet,Passeig de can Balet
+27,Carrer,can Cinto Manent,Carrer de can Cinto Manent
+28,Carrer,can Costa,Carrer de can Costa
+29,Passatge,can Costa,Passatge de can Costa
+30,Camí,can Creus,Camí de can Creus
+31,Carrer,can Figueres,Carrer de can Figueres
+32,Placeta,can Figueres,Placeta de can Figueres
+33,Carrer,can Malagrida,Carrer de can Malagrida
+34,Travessia,can Maresme,Travessia de can Maresme
+35,Torrent,can Mus,Torrent de can Mus
+36,Camí,can Nolla,Camí de can Nolla
+37,Placeta,can Pardal,Placeta de can Pardal
+38,Carrer,can Partellà,Carrer de can Partellà
+39,Passatge,can Pau Manent,Passatge de can Pau Manent
+40,Torrent,can Pau Manent,Torrent de can Pau Manent
+41,Torrent,can Pau Sirés,Torrent de can Pau Sirés
+42,Camí,can Soberano,Camí de can Soberano
+43,Passatge,can Soberano,Passatge de can Soberano
+44,Carrer,can Verboom,Carrer de can Verboom
+45,Carrer,can Vilar,Carrer de can Vilar
+46,Placeta,can Xarrié,Placeta de can Xarriè
+47,Torrent,Canari,Torrent Canari
+48,Avinguda,Canigó,Avinguda del Canigó
+49,Plaça,Canigó,Plaça del Canigó
+50,Carrer,Cant dels Ocells,Carrer del Cant dels Ocells
+51,Carrer,Cardoner,Carrer del Cardoner
+52,Passatge,Carenera,Passatge de la Carenera
+53,Avinguda,Caritat,Avinguda de la Caritat
+54,Carrer,Carmela Rovira,Carrer de Carmela Rovira
+55,Torrent,Castells,Torrent Castells
+56,Avinguda,Catalunya,Avinguda de Catalunya
+57,Passatge,Catalunya,Passatge de Catalunya
+58,Plaça,Catalunya,Plaça de Catalunya
+59,Carrer,Cerdanya,Carrer de la Cerdanya
+60,Passatge,Ciclàmens,Passatge dels Ciclàmens
+61,Passatge,Cirerers,Passatge dels Cirerers
+62,Carrer,Cisa,Carrer de la Cisa
+63,Torrent,Cisa,Torrent de la Cisa
+64,Carrer,ciutat d'Olot,Carrer de la ciutat d'Olot
+65,Carrer,Clavells,Carrer dels Clavells
+66,Avinguda,Collet de la Cisa,Avinguda del Collet de la Cisa
+67,Carrer,Conca de Tremp,Carrer de la Conca del Tremp
+68,Passatge,Concepció Supervia,Passatge de Concepció Supervia
+69,Carrer,Congost,Carrer del Congost
+70,Passatge,Cooperativa,Passatge de la Cooperativa
+71,Passeig,Coromina,Passeig Coromina
+72,Camí,Costa,Camí de la Costa
+73,Carrer,Costa Brava,Carrer de la Costa Brava
+74,Carrer,Dàlies,Carrer de les Dàlies
+75,Carrer,Dolça de Provença,Carrer de Dolça de Provença
+76,Passatge,"dr. Pelai Martorell, ""en Barbeta""","Passatge del dr. Pelai Martorell, ""en Barbeta"""
+77,Passatge,Dr. Pere Tarrés,Passatge del Dr. Pere Tarrés
+78,Carrer,Ebre,Carrer de l' Ebre
+79,Carrer,Elionor Cisa,Carrer d'Elionor Cisa
+80,Camí,Empedrat,Camí de l'Empedrat
+81,Carrer,Empordà,Carrer de l'Empordà
+82,Carretera,Enllaç,Carretera d' Enllaç
+83,Carrer,Església,Carrer de l'Església
+84,Pujada,Església,Pujada de l'Església
+85,Plaça,Espolsada,Plaça de l'Espolsada
+86,Carrer,Est,Carrer de l'Est
+87,Plaça,Fàbrica,Plaça de la Fàbrica
+88,Passatge,Feixes,Passatge de les Feixes
+89,Avinguda,Fèlix Millet,Avinguda de Fèlix Millet
+90,Carrer,Flamicell,Carrer del Flamicell
+91,Carrer,Flors,Carrer de les Flors
+92,Carrer,Fluvià,Carrer del Fluvià
+93,Passatge,Fogaina,Passatge de la Fogaina
+94,Carrer,Folch i Torres,Carrer de Folch i Torres
+95,Torrent,Fondo,Toorent del Fondo
+96,Camí,Font,Camí de la Font
+97,Torrent,Fontsana,Torrent de la Fontsana
+98,Camí,Francesos,Camí dels Francesos
+99,Carrer,Francolí,Carrer del Francolí
+100,Passatge,Freser,Passatge del Freser
+101,Carrer,Garbí,Carrer de Garbí
+102,Carrer,Gardènies,Carrer de les Gardènies
+103,Passatge,Garrofer,Passatge del Garrofer
+104,Carrer,Garrotxa,Carrer de la Garrotxa
+105,Carrer,Gaudí,Carrer de Gaudí
+106,Carrer,Geranis,Carrer dels Geranis
+107,Avinguda,Girona,Avinguda de Girona
+108,Carrer,Gregal,Carrer de Gregal
+109,Carrer,Guillem Tell,Carrer de Guillem Tell
+110,Carrer,Hipólito Lázaro,Carrer d'Hipólito Lázaro
+111,Passatge,Hortènsies,Passatge de les Hortènsies
+112,Passatge,Hortes,Passatge de les Hortes
+113,Carrer,J. S. Bach,Carrer de J. S. Bach
+114,Plaça ,Jardins de Francesc Recasens i Mercadé,Plaça Jardins de Francesc Recasens i Mercadé
+115,Carrer,Jaume I,Carrer de Jaume I
+116,Travessia,Jaume I,Travessia de Jaume I
+117,Carrer,Joan Maragall,Carrer de Joan Maragall
+118,Carrer,Joan Miró,Carrer de Joan Miró
+119,Carrer,Joaquim Costa,Carrer de Joaquim Costa
+120,Plaça,Jordi Pujol i Soley,Plaça de Jordi Pujol i Soley
+121,Carrer,Josep Carner,Carrer de Josep Carner
+122,Placeta,Josep Irla ,Placeta de Josep Irla
+123,Carrer,Josep Maria de Sagarra,Carrer de Josep Maria de Sagarra
+124,Avinguda,Josep Tarradelles,Avinguda de Josep Tarradelles
+125,Carrer,Juan de la Cierva,Carrer de Juan de la Cierva
+126,Passatge,Llançadora,Passatge de la Llançadora
+127,Carrer,Llarg,Carrer Llarg
+128,Passatge,Llaurador,Passatge del Llaurador
+129,Avinguda,Lleida,Avinguda de Lleida
+130,Carrer,Llessamins,Carrer dels Llessamins
+131,Carrer,Llevant,Carrer de Llevant
+132,Plaça,Llibertat,Plaça de la Llibertat
+133,Passatge,Llimoners,Passatge dels Llimoners
+134,Carrer,Llobregat,Carrer del Llobregat
+135,Plaça,Llorers,Plaça dels Llorers
+136,Plaça,Lluís Companys,Plaça de Lluís Companys
+137,Carrer,Lluís Vives,Carrer de Lluís Vives
+138,Travessia,Lluís Vives,Travessia de Lluís Vives
+139,Torrent,Malet,Torrent Malet
+140,Carrer,Manso Montserrat,Carrer del Manso Montserrat
+141,Carrer,Manuel Riera,Carrer de Manuel Riera
+142,Carrer,Mar,Carrer del Mar
+143,Passatge,Mar,Passatge del Mar
+144,Carrer,Margarida de Sucre,Carrer de Margarida de Sucre
+145,Passatge,Maria Espinal,Passatge de Maria Espinal
+146,Passatge,Marià Manent,Passatge de Marià Manent
+147,Carrer,Maria Masriera i Cisa,Carrer de Maria Masriera i Cisa
+148,Carrer,Maria Rosell,Carrer de Maria Rosell
+149,Carrer,Marimon,Carrer d'en Marimon
+150,Carrer,Marina,Carrer de Marina
+151,Camí,Mas de la Cisa,Camí del Mas de la Cisa
+152,Carrer,Matagalls,Carrer de Matagalls
+153,Passatge,Mateu Mas,Passatge d'en Mateu Mas
+154,Torrent,Mateu Mas,Torrent d'en Mateu Mas
+155,Passatge,Mercat,Passatge del Mercat
+156,Passatge,Mercè Capsir,Passatge de Mercè Capsir
+157,Carrer,Mestral ,Carrer de Mestral
+158,Carrer,Mestre Falla,Carrer del Mestre Falla
+159,Carrer,Mestre Pau Casals,Carrer del Mestre Pau Casals
+160,Camí,Mig,Camí del Mig
+161,Carrer,Migjorn,Carrer de Migjorn
+162,Carrer,Miguel de Cervantes,Carrer de Miguel de Cervantes
+163,Travessia,Miguel de Cervantes,Travessia de Miguel de Cervantes
+164,Plaça,Mil·lenari,Plaça del Mil·lenari
+165,Plaça,Mirador del Mediterrani,Plaça el Mirador del Mediterrani
+166,Carrer,Miramar,Carrer de Miramar 
+167,Passatge,Miramar,Passatge de Miramar
+168,Travessia,Miramar,Travessia de Miramar
+169,Ronda,Mistral,Ronda de Mistral
+170,Carrer,Montseny,Carrer del Montseny
+171,Ronda,Montserrat,Ronda de Montserrat
+172,Carrer,Montserrat Martí,Carrer de Montserrat Martí
+173,Torrent,Moragas,Torrent Moragas
+174,Passatge,Moreres,Passatge de les Moreres
+175,Carrer,Mossèn Antoni Batlle,Carrer de Mossèn Antoni Batlle
+176,Carrer,Mossèn Jacint Verdaguer,Carrer de Mossèn Jacint Verdaguer
+177,Carrer,Mossèn Jaume Rafanell,Carrer de Mossèn Jaume Rafanell
+178,Carrer,Mossèn Josep Mas,Carrer de Mossèn Josep Mas
+179,Carrer,Narcís Monturiol,Carrer de Narcís Monturiol
+180,Passatge,Neus Català,Passatge de Neus Català
+181,Carrer,Noguera Pallaresa,Carrer de la Noguera Pallaresa
+182,Carrer,Noguera Ribagorçana,Carrer de la Noguera Ribagorçana
+183,Carrer,Nou,Carrer Nou
+184,Carrer,Oest,Carrer de l'Oest
+185,Carrer,Onyar,Carrer de l'Onyar
+186,Carrer,Pallars,Carrer del Pallars
+187,Carrer,Parc Güell,Carrer del Parc Güell
+188,Passatge,Parc Infantil,Passatge del Parc infantil
+189,Avinguda,Pedra Blanca,Avinguda de la Pedra Blanca
+190,Carrer,Pedrera,Carrer de la Pedrera
+191,Camí,Pedrera,Camí de la Pedrera
+192,Carrer,Penedès,Carrer del Penedès
+193,Carrer,Pere Cisa i Cisa,Carrer de Pere Cisa i Cisa
+194,Carrer,Pere Masriera,Carrer de Pere Masriera
+195,Carrer,Pere Moles,Carrer de Pere Moles
+196,Plaça,Pi,Plaça del Pi
+197,Carrer,Pic Carlit,Carrer del Pic Carlit
+198,Carrer,Pintor Pau Roig,Carrer del Pintor Pau Roig
+199,Ronda,Pirineu,Ronda del Pirineu
+200,Travessia,Plaça,Travessia de la Plaça
+201,Carrer,Pompeu Fabra,Carrer de Pompeu Fabra
+202,Carrer,Ponent,Carrer de Ponent
+203,Carretera,Premià de Mar,Carretera de Premià de Mar
+204,Via,Primília,Via Primília
+205,Avinguda,Puig de Pedra,Avinguda del Puig de Pedra
+206,Carrer,Puigmal,Carrer del Puigmal
+207,Passatge,Puig-oriol,Passatge Puig-oriol
+208,Carrer,Rafael Ramos,Carrer de Rafael Ramos
+209,Carretera,Ramal,Carretera del Ramal
+210,Travessia,Ramal,Travessia del Ramal
+211,Carrer,Ramon Berenguer IV,Carrer de Ramon Berenguer IV
+212,Travessia,Ramon Berenguer IV,Travessia de Ramon Berenguer IV
+213,Avinguda,Ramón y Cajal,Avinguda de Ramón y Cajal
+214,Plaça,Ramón y Cajal,Plaça de Ramón y Cajal
+215,Passatge,Rec,Passatge del Rec
+216,Carrer,Ricard Sagué,Carrer de Ricard Sagué
+217,Passatge,Riera,Passatge de la Riera
+218,Carrer,Riereta,Carrer de la Riereta
+219,Camí,Roca del Cavall,Camí de la Roca del Cavall
+220,Travessia,Ronda Mistral,Travessia de la Ronda Mistral
+221,Carrer,Rosa dels Vents,Carrer de la Rosa dels Vents
+222,Carrer,Rosers,Carrer dels Rosers
+223,Passatge,Roures,Passatge dels Roures
+224,Carrer,Sagrada Família,Carrer de la Sagrada Família
+225,Plaça,Sagrada Família,Plaça de la Sagrada Família
+226,Carrer,Sant Antoni,Carrer de Sant Antoni
+227,Carrer,Sant Crist,Carrer del Sant Crist
+228,Passatge,Sant Crist,Passatge del Sant Crist
+229,Travessia,Sant Crist,Travessia del Sant Crist
+230,Carrer,Sant Jaume,Carrer de Sant Jaume
+231,Carrer,Sant Jeroni,Carrer de Sant Jeroni
+232,Carrer,Sant Joan Bosco,Carrer de Sant Joan Bosco
+233,Carrer,Sant Jordi,Carrer de Sant Jordi
+234,Passatge,Sant Jordi,Passatge de Sant Jordi
+235,Carrer,Sant Josep,Carrer de Sant Josep
+236,Passatge,Sant Josep,Passatge de Sant Josep
+237,Travessia,Sant Josep,Travessia de Sant Josep
+238,Avinguda,Sant Pere,Avinguda de Sant Pere
+239,Riera,Sant Pere,Riera de Sant Pere
+240,Camí,Santa Anna,Camí de Santa Anna
+241,Torrent,Santa Anna,Torrent de Santa Anna
+242,Passatge,Santa Elena,Passatge de Santa Elena
+243,Carrer,Santa Joaquima,Carrer de Santa Joaquima
+244,Passatge,Santiago Rusiñol,Passatge de Santiago Rusiñol
+245,Ronda,Santiago Rusiñol,Ronda de Santiago Rusiñol
+246,Carrer,Segre,Carrer del Segre
+247,Carrer,Selva ,Carrer de la Selva
+248,Carrer,Senyors de Sant Vicenç,Carrer dels Senyors de Sant Vicenç
+249,Carrer,Serra del Cadí,Carrer de la Serra del Cadí
+250,Camí,Servitud de l'Autopista,Camí de la Servitud de l'Autopista
+251,Carretera,Sis Pobles,Carretera dels Sis Pobles
+252,Camí,Sot del Pi,Camí del Sot del Pi
+253,Carrer,Suïssa,Carrer de la Suïssa
+254,Passatge,Tarongers,Passatge dels Tarongers
+255,Avinguda,Tarragona,Avinguda de Tarragona
+256,Camí,Teià,Camí de Teià
+257,Carrer,Teixidores,Carrer de les Teixidores
+258,Passatge,Telers,Passatge dels Telers
+259,Carrer,Ter,Carrer del Ter
+260,Carrer,Terra Alta,Carrer de la Terra Alta
+261,Carrer,Tordera,Carrer de la Tordera
+262,Carrer,Torras i Bages,Carrer de Torras i Bages
+263,Travessia,Torras i Bages,Travessia de Torras i Bages
+264,Carrer,Tramuntana,Carrer de Tramuntana
+265,Pujada,Turó d'en Pons,Pujada del Turó d'en Pons
+266,Carrer,Urgell,Carrer de l'Urgell
+267,Carrer,Urgellet,Carrer de l'Urgellet
+268,Carrer,Vall d'Aran,Carrer de la Vall d'Aran
+269,Carrer,Vallès,Carrer del Vallès
+270,Carrer,Vallespir,Carrer del Vallespir
+271,Carrer,Verge del Remei,Carrer de la Verge del Remei
+272,Parc,Vicente Ferrer,Parc Vicente Ferrer
+273,Carrer,Víctor Català,Carrer de Víctor Català
+274,Passatge,Víctor Mora,Passatge de Víctor Mora
+275,Plaça,Vila,Plaça de la Vila
+276,Carretera,Vilassar de Dalt,Carretera de Vilassar de Dalt
+277,Passatge,Vinyes,Passatge de les Vinyes
+278,Plaça,Vista Alegre,Plaça de Vista Alegre
+279,Carrer,Vogi,Carrer del Vogi
+280,Plaça,Vogi,Plaça del Vogi
+281,Carrer,Xaloc,Carrer de Xaloc
+282,Carrer,Xamorot,Carrer del Xamorot
+283,Carrer,Xavier Vilanova,Carrer de Xavier Vilanova
+284,Passatge,Xiprers,Passatge dels Xiprers
